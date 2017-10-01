@@ -1,8 +1,6 @@
-
+<img alt="Obrolan Basis Data" src="https://github.com/basisdatalab/obd/raw/master/obd.png" width="150">
 
 # Obrolan Basis Data
-
-<img alt="Obrolan Basis Data" src="https://github.com/basisdatalab/obd/raw/master/obd.png" width="150">
 
 A weekly event for internal member of Database Research Laboratory, Telkom University. We invite special speaker to share about latest technology to keep you updated.
 
