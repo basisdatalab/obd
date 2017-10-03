@@ -7,8 +7,8 @@ A weekly event for internal member of Database Research Laboratory, Telkom Unive
 This repository included all speaker deck. Feel free to download the deck!
 
 ## Speaker
-### Week 1 (Date)
+### Week 1 (6 October 2017)
 1. [Web Developer Roadmap](https://www.google.com) –
 Habib Fikri Sundayana (S1 Teknik Informatika, 2014)
-2. [Speaker title](https://www.google.com) –
-Speaker Name (Major, Year)
+2. [Should you learn to code](https://www.google.com) –
+Matias Alvin (S1 Teknik Informatika, 2014)
