@@ -8,7 +8,7 @@ This repository included all speaker deck. Feel free to download the deck!
 
 ## Speaker
 ### Week 1 (6 October 2017)
-1. [Web Developer Roadmap](https://www.google.com) –
+1. [Web Developer Roadmap](https://github.com/basisdatalab/developer-roadmap) –
 Habib Fikri Sundayana (S1 Teknik Informatika, 2014)
-2. [Should you learn to code](https://www.google.com) –
+2. Should you learn to code –
 Matias Alvin (S1 Teknik Informatika, 2014)
